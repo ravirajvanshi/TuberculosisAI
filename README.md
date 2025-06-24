@@ -35,7 +35,7 @@ This project aims to develop an AI-based system for the detection of Tuberculosi
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/ravirajvanshi/TuberculosisAI.git
    cd TuberculosisAI
    ```
 
